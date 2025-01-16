@@ -1,0 +1,12 @@
+Project Description:
+A console-based banking system where a user can interact with a bank account. The system should allow the user to perform multiple operations, with loops to keep the program running until the user chooses to exit. Switch statements can be used for handling various operations within the banking system.
+
+Key Requirements:
+Menu with options: Use a loop to display a menu of options 
+    (Deposit, Withdraw, Check Balance, Exit). The menu should 
+      repeat until the user selects "Exit".
+.Deposit: User can deposit money into their account balance.
+.Withdraw: User can withdraw money from their account balance 
+   (with error handling for insufficient funds).
+.Check Balance: User can check the current account balance.
+.Exit: The user can exit the program.
