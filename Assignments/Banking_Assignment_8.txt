@@ -1,0 +1,20 @@
+banking-system/
+├── src/
+│   ├── main/
+│   │   └── java/
+│   │       └── com/
+│   │           └── banking/
+│   │               ├── BankAccount.java
+│   │               ├── InsufficientFundsException.java
+│   │               ├── BankService.java
+│   │               ├── AccountDAO.java
+│   │               └── DatabaseConnection.java
+│   └── test/
+│       └── java/
+│           └── com/
+│               └── banking/
+│                   ├── BankAccountTest.java
+│                   ├── BankServiceTest.java
+│                   └── AccountDAOTest.java
+├── pom.xml
+└── README.md
